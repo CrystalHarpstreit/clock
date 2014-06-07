@@ -1,0 +1,19 @@
+#txt {
+  position: absolute;
+  top: 20px;
+  left: 50px;
+  font-family: 'Calligraffitti', cursive;
+  font-size: 40px;
+} 
+
+button#stop {
+  width: 50px;
+  background: #D8A0D9;
+  border-radius: 5px;
+  position: absolute;
+  left: 50px;
+  top: 80px;
+  border-style: none;
+  font-family: "HelveticaNeue";
+  font-size: 12px;
+}
